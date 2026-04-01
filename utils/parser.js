@@ -1,9 +1,9 @@
 import _ from "lodash"
 
 export function parseNumbers(input) {
-            return {}
-          }
+  return {};
+}
 
-          export function isValidOperation(operation) {
-            return {}
-          }
+export function isValidOperation(operation) {
+  return {};
+}      
